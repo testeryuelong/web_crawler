@@ -3,11 +3,11 @@
 
 ProjectVar
 
-      --Var.py    工程变量，存放用户标识和数据来源标识
+    --Var.py    工程变量，存放用户标识和数据来源标识
 
 TestScripts
 
-     --MainScripts.py   脚本主程序
+    --MainScripts.py   脚本主程序
 
 Util
 
@@ -18,4 +18,8 @@ Util
     --RaiseTime.py             时间模块
 
 --可忽略
+
     --GetLinkObj.py     未封装代码
+    
+  
+ 声明：谨作为个人代码练习，请规范使用！
